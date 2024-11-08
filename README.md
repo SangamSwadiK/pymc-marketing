@@ -17,6 +17,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![PyPI Downloads](https://static.pepy.tech/badge/pymc-marketing)
 <img src="https://static.pepy.tech/badge/pymc-marketing" alt="PyPI Downloads">
+<a href="https://pepy.tech/projects/pymc-marketing"><img src="https://static.pepy.tech/badge/pymc-marketing" alt="PyPI Downloads"></a>
 
 # <span style="color:limegreen">PyMC-Marketing</span>: Bayesian Marketing Mix Modeling (MMM) & Customer Lifetime Value (CLV)
 
